@@ -7,7 +7,7 @@
     "deploy": "gh-pages -d Dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://TurtleWolfe.github.io/FaceLipz",
+  "homepage": "https://TurtleWolfe.github.io/FaceLipz/",
   "author": "",
   "license": "ISC",
   "devDependencies": {
